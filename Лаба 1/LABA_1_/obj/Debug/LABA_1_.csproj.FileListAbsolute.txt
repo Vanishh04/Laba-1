@@ -1,0 +1,11 @@
+C:\Users\ПК\source\repos\LABA_1_\bin\Debug\LABA_1_.exe.config
+C:\Users\ПК\source\repos\LABA_1_\bin\Debug\LABA_1_.exe
+C:\Users\ПК\source\repos\LABA_1_\bin\Debug\LABA_1_.pdb
+C:\Users\ПК\source\repos\LABA_1_\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ПК\source\repos\LABA_1_\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ПК\source\repos\LABA_1_\obj\Debug\LABA_1_.csproj.AssemblyReference.cache
+C:\Users\ПК\source\repos\LABA_1_\obj\Debug\LABA_1_.csproj.SuggestedBindingRedirects.cache
+C:\Users\ПК\source\repos\LABA_1_\obj\Debug\LABA_1_.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\LABA_1_\obj\Debug\LABA_1_.csproj.CopyComplete
+C:\Users\ПК\source\repos\LABA_1_\obj\Debug\LABA_1_.exe
+C:\Users\ПК\source\repos\LABA_1_\obj\Debug\LABA_1_.pdb
